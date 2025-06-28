@@ -1,0 +1,6 @@
+@ParksApi_HostAddress = http://localhost:5204
+
+GET {{ParksApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
